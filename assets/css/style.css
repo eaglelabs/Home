@@ -583,7 +583,8 @@ position: relative;}
    #arrow{
      position: absolute;
      top:60%;
-     font-size: smaller;
+     font-size: 60px;
+     color: #e1e3eca1;
    }
    #particles-js{
 
